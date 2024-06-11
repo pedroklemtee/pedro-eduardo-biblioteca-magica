@@ -1,0 +1,14 @@
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/bin/Debug/net8.0/DesafioVortigoBiblioteca
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/bin/Debug/net8.0/DesafioVortigoBiblioteca.deps.json
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/bin/Debug/net8.0/DesafioVortigoBiblioteca.runtimeconfig.json
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/bin/Debug/net8.0/DesafioVortigoBiblioteca.dll
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/bin/Debug/net8.0/DesafioVortigoBiblioteca.pdb
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.AssemblyInfoInputs.cache
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.AssemblyInfo.cs
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.csproj.CoreCompileInputs.cache
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.dll
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/refint/DesafioVortigoBiblioteca.dll
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.pdb
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/DesafioVortigoBiblioteca.genruntimeconfig.cache
+/home/pedro/[Vortigo]/[Alura]/DesafioVortigoBiblioteca/DesafioVortigoBiblioteca/obj/Debug/net8.0/ref/DesafioVortigoBiblioteca.dll
